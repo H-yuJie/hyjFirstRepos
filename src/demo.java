@@ -19,7 +19,8 @@ public class demo {
     //方向上下键选择，方向右打开，方向左关闭
 //    ctrl+/快速注释一行
     //ctrl + alt + L美化代码
-    
+
+    //idea集成了git，等它安好
 
     //生成setter and getter
     public int getAge() {
