@@ -20,5 +20,5 @@ origin看你命名的是什么，master是分支
 以后更新git
 只用：
 git add .
-git commit -m "xxx"  # xxx是更新的信息，刚才甜的是first commit，可以随便填
+git commit -m "xxx"  # xxx是更新的信息，刚才填的是first commit，可以随便填
 git push origin master
