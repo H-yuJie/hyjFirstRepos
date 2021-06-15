@@ -22,4 +22,3 @@ origin看你命名的是什么，master是分支
 git add .
 git commit -m "xxx"  # xxx是更新的信息，刚才填的是first commit，可以随便填
 git push origin master
-这个里面的一些标题啥的在哪里看啊
